@@ -245,7 +245,7 @@ would designate one of the non-nested dependencies and would be ignored.
 
 ## Retro compatibility for the `resolutions` field
 
-Until now, the`resolutions` field can contain *resolutions* of the following
+Until now, the `resolutions` field can contain *resolutions* of the following
 form (filled by `add --flat` or `install --flat`):
 ```json
   "resolutions": {
